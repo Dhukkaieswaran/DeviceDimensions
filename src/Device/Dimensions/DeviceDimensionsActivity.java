@@ -25,7 +25,7 @@ public class DeviceDimensionsActivity extends Activity {
         WidthTextview.setText("Width : "+String.valueOf(ApplicationDisplay.getWidth()));
         HeighttextView.setText("Height : "+String.valueOf(ApplicationDisplay.getHeight()));
         IDtextView.setText("ANDROID ID : "+deviceId);
-        
+        //Eswaran
 // switch1
 //        final Switch switchT1 = (Switch)findViewById(R.id.switch1);   
 //        switchT1.setOnClickListener(new View.OnClickListener() {
